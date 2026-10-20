@@ -1,3 +1,7 @@
 spring:
   application:
     name: grumpy-thermostat
+
+app:
+  data:
+    source: classpath:readings.csv
